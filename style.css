@@ -93,7 +93,7 @@ ul li * {
 }
 
 ul li:nth-child(odd) * {
-  background: #ffffff80;
+  background: #dac0c080;
 }
 
 li i {
@@ -102,7 +102,7 @@ li i {
 }
 
 li.checked > i {
-  color: #00e676;
+  color: #0bd473;
 }
 
 li p {
